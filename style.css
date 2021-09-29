@@ -1,0 +1,24 @@
+body	{
+	background-color: #022d33;
+background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+img {
+  display: inline-block;
+  max-width:75%;
+  height: auto;
+}
+
+/*.carousel-inner {
+
+  width:640px;
+  height:360px;
+}*/
+
+
+.jumbotron {
+  background-color: #022d33;
+background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+  ;
+}
