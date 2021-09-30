@@ -1,14 +1,13 @@
 body	{
-	background-color: #022d33;
-background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+background-color: #020305;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
 }
 
-img {
+/*img {
   display: inline-block;
   max-width:75%;
   height: auto;
-}
+}*/
 
 /*.carousel-inner {
 
@@ -18,7 +17,12 @@ img {
 
 
 .jumbotron {
-  background-color: #022d33;
-background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+background-color: #020305;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
   ;
 }
+
+/*footer {
+    background-color: #022d33;
+background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+}*/
