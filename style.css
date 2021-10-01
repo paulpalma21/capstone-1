@@ -1,19 +1,8 @@
 body	{
 background-color: #020305;
 background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+font-family: 'Oswald', sans-serif !important;
 }
-
-/*img {
-  display: inline-block;
-  max-width:75%;
-  height: auto;
-}*/
-
-/*.carousel-inner {
-
-  width:640px;
-  height:360px;
-}*/
 
 
 .jumbotron {
@@ -22,7 +11,3 @@ background-image: url("https://www.transparenttextures.com/patterns/asfalt-light
   ;
 }
 
-/*footer {
-    background-color: #022d33;
-background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
-}*/

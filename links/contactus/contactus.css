@@ -1,7 +1,8 @@
 body	{
 background-color: #020305;
 background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+font-family: 'Oswald', sans-serif !important;
+
 }
 
 .jumbotron {
